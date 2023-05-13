@@ -1,3 +1,3 @@
 # WONDER
 A Discord bot made by **artist**
-> leaked by (`auth#0001`)
+> Leaked by caden (`Niylah Number 1 Supporter#0193`)
